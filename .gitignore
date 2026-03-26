@@ -1,0 +1,7 @@
+# Ambiente virtual — não versionar
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
